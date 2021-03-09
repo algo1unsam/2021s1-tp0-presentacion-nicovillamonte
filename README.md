@@ -1,6 +1,6 @@
 # Presentación
 
-## Estudiante: __Nicolás Matías Villamonte__
+## Estudiante: _Nicolás Matías Villamonte_
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
