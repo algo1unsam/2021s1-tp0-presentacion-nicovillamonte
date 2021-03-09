@@ -1,7 +1,7 @@
 # Presentación
 
 ## Estudiante: _Nicolás Matías Villamonte_
-Soy egresado del La Salle Florida, programos desde los 12 años y es mucho más que una pasión. Además de estudiar Tecnicatura de Programación Informática (TPI) en la UNSAM, soy reciente participante del Centro de Investigación de Desarrollo Informático (CIDI) de la misma. 
+Soy egresado del La Salle Florida como técnico electrónico, programos desde los 12 años y es mucho más que una pasión. Además de estudiar Tecnicatura de Programación Informática (TPI) en la UNSAM, soy reciente participante del Centro de Investigación de Desarrollo Informático (CIDI) de la misma. 
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
